@@ -4,4 +4,4 @@
 
 💼 Tech Stack: JavaScript, React, Node.js, Python, SQL
 
-🚀 Always learning, forever evolving
+🚀 Always learning, forever evolving..
