@@ -1,4 +1,4 @@
-Etsub Taye
+ 
 Data Analyst | Business Intelligence Specialist | Brand & Business Development Consultant
 
 Welcome to my GitHub! I'm a data analyst with 3+ years of experience transforming data into actionable insights and creating data-driven solutions that fuel business growth. My work spans various domains, from healthcare and retail to transportation, where I focus on improving customer engagement, operational efficiency, and strategic impact through comprehensive data analysis and visualization.
