@@ -1,14 +1,39 @@
- 
-Data Analyst | Business Intelligence Specialist | Brand & Business Development Consultant
+👋 Hi, I'm Ethen Taye
+Data Analyst | Report Developer | Business Intelligence Enthusiast
+🔍 Passionate about transforming raw data into actionable insights that drive business decisions
+🚀 What I Do
 
-Welcome to my GitHub! I'm a data analyst with 3+ years of experience transforming data into actionable insights and creating data-driven solutions that fuel business growth. My work spans various domains, from healthcare and retail to transportation, where I focus on improving customer engagement, operational efficiency, and strategic impact through comprehensive data analysis and visualization.
+Data Analysis: SQL, Python (Pandas, NumPy, Matplotlib, Seaborn)
+Business Intelligence: Creating dashboards, reports, and visualizations
+Database Management: SQL Server, data validation, and ETL processes
+Healthcare Analytics: Experience with medical records and compliance
 
-Featured Projects
-Amazon Sales Intelligence Project
-Utilizing Python for data analysis, I optimized inventory and marketing strategies based on trends in customer preferences and demand patterns. This project integrates Pandas, NumPy, Matplotlib, and Seaborn to deliver actionable insights for aligning stock and promotional focus with real-time market trends.
+🛠️ Tech Stack
+Languages:     Python, SQL, JavaScript
+Databases:     SQL Server, MySQL
+Visualization: Tableau, Excel, Matplotlib, Seaborn
+Tools:         SSRS, Git, Jupyter Notebooks
+📊 Featured Projects
+🦠 COVID-19 Global Analysis - Comprehensive pandemic data exploration using SQL and Tableau
+🛒 Amazon Sales Analytics - Python-based analysis of 128K+ sales records with actionable insights
+🚗 Transportation Data Pipeline - Automated reporting system for fleet operations and data integrity
+🎓 Education & Certifications
 
-The Impact of COVID-19 - Exploratory Data Analysis & Visualization
-This SQL-based project provided critical insights for NGOs and health organizations during the pandemic. By analyzing over 1 million entries, I identified correlations between interventions and infection trends, creating interactive dashboards accessible for guiding public health decisions.
+B.S. Computer Science - Hilcoe Institute of Technology (2024)
+Pursuing: Data Management & Analytics - Western Governors University
+IBM Python for Data Science Certification
 
-Each project on my GitHub is driven by a focus on data precision, client needs, and strategic outcomes. I’m always open to collaboration and passionate about using data to drive meaningful change. Dive into my repositories to see how I harness SQL, Tableau, Python, and cloud technologies to solve complex business challenges.
+🌟 Current Focus
 
+Building end-to-end data pipelines
+Mastering advanced SQL techniques and SSRS
+Creating interactive dashboards for healthcare and business analytics
+
+📫 Let's Connect!
+
+💼 LinkedIn
+📧 ethentaye@outlook.com
+📍 Moseley, VA
+
+
+"Data is the new oil, but insights are the refined fuel that powers better decisions" ⚡
